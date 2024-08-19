@@ -5,7 +5,7 @@
 
   **O BILU TRAZ CONHECIMENTO!**
 
-Calma, essa é apenas a temática que do jogo Space Invaders!  
+Calma, essa é apenas a temática do jogo Space Invaders!  
 Sendo originalmente lançado em 1978 pela [TAITO CORPORATION](https://www.taito.com/) e desenhado por Tomohiro Nishikado, e depois licenciado pela Midway. Este joguinho foi um dos primeiros cuja temática era de tiro e que possuia gráficos bidimensionais. _O sucesso se estende até os dias atuais!_
 
 O objetivo do jogo é destruir os aliens com a sua nave e dessa forma impedir que a invasão se concretize. Porém, não se pode dormir na direção, já que a qualquer momento os aliens podem te atingir e conseguir o que tanto querem: conquistar a Terra 🌎!
